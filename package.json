@@ -1,0 +1,22 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "Implementation of a parser",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferlopez94/Parser.git"
+  },
+  "author": "Fernando López",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferlopez94/Parser/issues"
+  },
+  "homepage": "https://github.com/ferlopez94/Parser#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.6"
+  }
+}
